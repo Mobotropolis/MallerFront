@@ -1,10 +1,10 @@
 <template>
   <div class="container-fluid">
     <div>
-      <h1>Arcade</h1>
+      <h1>Fitness Center</h1>
       <p> What would you like today? </p>
 
-      <p><NLink to="lobby"><button type="button" class="btn btn-primary btn-lg btn-block">Back to Lobby</button></NLink></p>
+      <p><NLink to="south"><button type="button" class="btn btn-primary btn-lg btn-block">Back to Lobby</button></NLink></p>
     </div>
   </div>
 </template>

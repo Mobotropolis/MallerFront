@@ -1,10 +1,10 @@
 <template>
   <div class="container-fluid">
     <div>
-      <h1>Wonder Wheel</h1>
+      <h1>Fanciful Moobie Cafe</h1>
       <p> What would you like today? </p>
 
-      <p><NLink to="lobby"><button type="button" class="btn btn-primary btn-lg btn-block">Back to Lobby</button></NLink></p>
+      <p><NLink to="Central"><button type="button" class="btn btn-primary btn-lg btn-block">Back to Lobby</button></NLink></p>
     </div>
   </div>
 </template>

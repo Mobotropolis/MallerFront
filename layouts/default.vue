@@ -77,6 +77,7 @@ body {
   color: #fff;
   text-align: left;
   background-color: #222;
+  background-image: url("~assets/images/fancy-cushion.png");
 }
 
 [tabindex="-1"]:focus {
@@ -2611,9 +2612,11 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
+  color: #e6f2ff;
+  font-family: cursive;
   background-color: #375a7f;
-  border-color: #375a7f;
+  background-image: url("~assets/images/classy_fabric.png");
+  border-color: #80bfff;
 }
 
 .btn-primary:hover {

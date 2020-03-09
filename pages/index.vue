@@ -5,8 +5,17 @@
       <div style="text-align: center;">
         <h1>Maller<span class="green">Net</span></h1>
         <h4>Bored? Hang out at the mall.</h4>
-  
-        <NLink to="mall/lobby"><button type="button" class="btn btn-primary btn-lg">Enter</button></NLink>
+        <p><br /></p>
+        <NLink to="mall/"><button type="button" class="btn btn-primary btn-lg">Shopping</button></NLink>
+        <NLink to="kiosk/"><button type="button" class="btn btn-primary btn-lg">Kiosk</button></NLink>
+        <NLink to="arcade/"><button type="button" class="btn btn-primary btn-lg">Games</button></NLink>
+        <NLink to="chatbox/"><button type="button" class="btn btn-primary btn-lg">Chat</button></NLink>
+        <NLink to="workers/"><button type="button" class="btn btn-primary btn-lg">Workers</button></NLink>
+      <br /><br /> 
+      <NLink to="news/"><button type="button" class="btn btn-primary btn-lg">What's New</button></NLink>
+      <NLink to="status/"><button type="button" class="btn btn-primary btn-lg">Status</button></NLink>
+      
+      <NLink to="settings/"><button type="button" class="btn btn-primary btn-lg">Settings</button></NLink>
       </div>
     </div>
   </section>
